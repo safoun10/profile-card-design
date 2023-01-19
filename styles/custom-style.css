@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin&family=Open+Sans&family=Poppins:wght@500&family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+/* Above is work-sans google font */
+
+body{
+    font-family: 'Work Sans', sans-serif;
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: rgba(94, 106, 107, 0.228);
+}
+
+.cb-1{
+    margin-top: -100px !important;
+}
+
+/* header, footer{
+    width: 100vw;
+    background: rgb(0,0,255);
+    background: linear-gradient(90deg, rgba(0,0,255,1) 0%, rgba(196,0,255,1) 50%, rgba(244,69,252,1) 100%);
+} */
+
+main>.row>.card{
+    box-shadow: 10px 10px 34px 11px rgba(0,0,0,0.46);
+}
